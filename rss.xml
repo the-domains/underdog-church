@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Underdog Church]]></title>
         <description><![CDATA[Underdog Church]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/underdog-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 20:46:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 20:46:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/underdog-church/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FREE Book - When the Darkness will not Lift]]></title>
             <description><![CDATA[<article><h1>FREE Book - When the Darkness will not Lift</h1><p>"It is utterly crucial that in our darkness we affirm the wise, strong hand of God to hold us, even when we have no strength to hold him." John Piper Even the most faithful, focused Christians can encounter periods of depression and spiritual darkness when joy seems to stay just out of reach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2047666dc76099ddb214bfb935aa7124db36ff.jpg"></article>]]></description>
             <link>http://www.desiringgod.org/books/when-the-darkness-will-not-lift</link>
             <guid isPermaLink="false">282eb4b7-3b18-44e8-aacd-c051f4b42cc5</guid>
+            <pubDate>Tue, 17 May 2016 20:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why we worship on Repeat...]]></title>
+            <description><![CDATA[<article><h1>Why we worship on Repeat...</h1><p>Many a modern church-goer has been miffed by repetition in corporate worship. The Information Age is conditioning us for new content, fresh ideas, new data. Why re-read what we've already read, why rehearse what we've already heard, when new information is available like never before?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/198975629025e8c3f6ef526f01403819823dca52.jpg"></article>]]></description>
+            <link>http://www.desiringgod.org/articles/why-we-worship-on-repeat</link>
+            <guid isPermaLink="false">04d7101e-cb8f-455a-a245-addc503064ed</guid>
             <pubDate>Tue, 17 May 2016 20:46:29 GMT</pubDate>
         </item>
     </channel>
