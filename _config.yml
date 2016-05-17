@@ -1,6 +1,6 @@
 name: Underdog Church
 favicon: null
-layout_spectrum: 0.43898997036740184
+layout_spectrum: 0.41447
 typography_spectrum: 0.832262895302847
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#909090'
+    - '#bfbfbf'
+    - '#4b4b4b'
+    - '#323232'
+    - '#010101'
   brandStrength: 0.7709456405136734
   lightness: 0.18807955645024776
   saturation: 0.016402914421632886
